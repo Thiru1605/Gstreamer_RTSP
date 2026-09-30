@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+recordings/
+frames/
+logs/
+*.mp4
+*.avi
+*.mkv
